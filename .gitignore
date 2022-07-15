@@ -1,0 +1,7 @@
+# Universal Virtual Machine
+debug/
+target/
+
+Cargo.lock
+**/**.rs.bk
+*.pdb
